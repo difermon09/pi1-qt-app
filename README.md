@@ -19,14 +19,15 @@ qt_app/
 └── requirements.txt # Dependencias
 ```
 
-## Requisitos
-
-- Python 3.12+
-- PyQt6
-- Matplotlib
-- Requests
-
 ## Instalación
+
+### Opción 1: Usar el ejecutable (Recomendado)
+
+1. Ve a la sección [Releases](https://github.com/difermon09/pi1-qt-app/releases) de este repositorio
+2. Descarga la última versión del archivo `PI1_app_windows.exe`
+3. Ejecuta el archivo descargado
+
+### Opción 2: Instalación desde código fuente
 
 1. Crear un entorno virtual:
 ```bash
