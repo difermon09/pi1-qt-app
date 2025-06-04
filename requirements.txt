@@ -1,0 +1,4 @@
+aiohttp
+matplotlib
+PyQt6
+requests

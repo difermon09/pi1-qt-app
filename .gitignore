@@ -23,6 +23,7 @@ wheels/
 # PyQt
 *.exe
 *.spec
+PI1_app_linux
 
 # Virtual Environment
 venv/
